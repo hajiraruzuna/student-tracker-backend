@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Backend for Student Project Tracker
 
 Imagine you're helping build a simple **student project tracker** for a school. Your task is to set up the backend using **Node.js** and **Express.js**, and connect it to a **MongoDB** database using **Mongoose**.
@@ -90,3 +91,6 @@ You can either push manually or directly from StackBlitz.
 
 If your GitHub username is `anikaDev` and the repository is `student-tracker-backend`, submit:
 `https://github.com/anikaDev/student-tracker-backend`
+=======
+# student-tracker-backend
+>>>>>>> dd5ea4ebbf9784ecc119301e7f9ccd22e9f75fc6
